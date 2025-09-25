@@ -1,0 +1,7 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom tweaks to better match Figma feel */
+body { @apply bg-gray-50; }
